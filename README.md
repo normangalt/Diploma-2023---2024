@@ -11,3 +11,4 @@ Module helpers contains different supportive codes for data transformation and f
 Module models contains codes for performing sentiment retrieval from news headlines by different LLMs.
 
 Module trading contains two files for performing trading simulation using price movement predictions and raw sentimens;
+file "trading.ipynb" also performs evaluation of raw sentiments against real price movements.
